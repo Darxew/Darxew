@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Darxew
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut,Je suis @Darxew
+- 👀 Je suis intéressé par rien dutout
+- 🌱 J'aime beaucoup les pâtes 😋
+- 👍 Et c'est tout
+- 😉 Voila
 
 <!---
 Darxew/Darxew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
